@@ -10102,13 +10102,5 @@
         "name": "Chintu TV",
         "license_key": "19d8a5cc002f411b89b33925acdc33e0:2a9aa7a3f69834c4f348430cc3f658bb",
         "category": "SunNXT"
-    },
-    {
-        "id": "wowkidz-hindi",
-        "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8",
-        "logo": "https://yt3.ggpht.com/a/AATXAJytH39NO3s4QEpDhzrKSGGEg0tf1c6c29ZzsQ=s900-c-k-c0xffffffff-no-rj-mo",
-        "name": "WOW KIDZ Hindi",
-        "license_key": "",
-        "category": "WOW KIDZ"
     }
 ]
